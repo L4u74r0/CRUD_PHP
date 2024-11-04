@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+.container-fluid{
+    justify-content: center;
+}
+
+h3 {
+    color: #007bff;
+}
+.table th, .table td {
+    vertical-align: middle;
+    background-color: #a7a7a7;
+}
+
+table{
+    border-radius: 10px;
+}
+
+.table th{
+    background-color: #007bff;
+}
+.table img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;/
+}
+.alert {
+    margin-top: 20px;
+}
+
+form{
+    background-color: #a7a7a7;
+    border-radius: 10px;
+    height: 800px;
+}
+
+.acciones{
+    background-color: #f8f9fa;
+}
+
+
